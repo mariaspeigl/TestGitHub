@@ -10,7 +10,7 @@ public class TestSales {
 	public void test() {
 		SalesData data = new SalesData();
 		String test = data.getStringTest();
-		assertTrue("test" == "test");
+		assertTrue("test" == test);
 	}
 
 }
