@@ -10,4 +10,8 @@ public class SalesData {
 		
 	}
 
+	public String getStringTest() {
+		return "test";
+	}
+
 }
